@@ -18,7 +18,7 @@ Given a **guess word** and a **hint pattern**, it scans through a word list and 
 
 - Clone Repository
 ```bash
-git clone 
+git clone https://github.com/ryan-webster-vt/wordle-hint.git
 cd wordle-hint
 ```
 
