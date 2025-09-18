@@ -57,6 +57,7 @@ int main(int argc, char** argv) {
         hints(next, guess, hint);
         if (strcmp(inputHint, hint) == 0) {
             printf("%s ", next);
+            printf("\n");
             found = true;
         }
     }
